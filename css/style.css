@@ -1,0 +1,51 @@
+
+body {
+	padding: 20px;
+}
+
+.form-frame {
+	border:solid 2px #D7D7D7;
+	padding: 20px;
+	border-radius: 5px;
+	background-color: #EBEBEB;
+	max-width: 500px;
+	position: relative;
+	margin: 0 auto;
+	-webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.btn-twitter {
+	background-color: #3E97D1;
+	border-color: #3E97D1;
+	width: 49%;
+}
+
+.btn-twitter:hover {
+	background-color: #3E97D1;
+	border-color: #3E97D1;
+	width: 49%;
+}
+
+.btn-facebook {
+	background-color:#03426A;
+	border-color: #03426A;
+	width: 49%;
+}
+
+.btn-facebook:hover {
+	background-color:#03426A;
+	border-color: #03426A;
+	width: 49%;
+}
+
+.btn-register {
+	width: 39%;
+
+}
+
+.foot-note {
+	text-align: center;
+	padding: 20px;
+}
